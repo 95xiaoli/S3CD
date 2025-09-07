@@ -1,5 +1,5 @@
 # S3CD
-Unsupervised SAR Image Change Detection via Structure Feature-Based Self-Representation Learning
+
 
 The code is for paper "Unsupervised SAR Image Change Detection via Structure Feature-based Self-Representation Learning" by Weisong Li , Yinwei Li , Yiming Zhu , and Haipeng Wang.
 
@@ -23,11 +23,8 @@ The code is tested on Windows 11 with MATLAB R2024a.
 
 
 Usage:
-
 1.put pre-genrated DI maps into the directory '\data'. It is recommended to us log-ratio operator to genrate intial DI maps.
-
 2.put their ground truth into the directory '\GT'.
-
 3.run 'main.m'
 
 
