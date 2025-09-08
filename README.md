@@ -1,7 +1,7 @@
 # S3CD
 
 
-The code is for paper "Unsupervised SAR Image Change Detection via Structure Feature-based Self-Representation Learning" by Weisong Li , Yinwei Li , Yiming Zhu , and Haipeng Wang.
+The code is for paper ["Unsupervised SAR Image Change Detection via Structure Feature-based Self-Representation Learning"](https://ieeexplore.ieee.org/document/11123813/keywords#keywords). by Weisong Li , Yinwei Li , Yiming Zhu , and Haipeng Wang.
 
 To appear in IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2025 written by Weisong Li. Email: ws_li@usst.edu.cn; weisongli20@fudan.edu.cn
 
